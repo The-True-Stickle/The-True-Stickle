@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @The-True-Stickle
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on: game dev
-- 📫 How to reach me: @Stickle88
+- 👀 I’m interested in design and game development
+- 🌱 I’m currently learning how to craft dynamic tools to enhance development productivity
+- 💞️ I’m looking to collaborate on: Anything!
+- 📫 How to reach me: bowen.bothello@gmail.com
 
 <!---
 The-True-Stickle/The-True-Stickle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
